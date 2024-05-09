@@ -1,7 +1,7 @@
-import { Manga } from "./manga"
+import { Manga } from "./manga";
 
 export type InitialStateRes = {
-    cartItems: Manga[],
-    quantity: number,
-    total: number,
-}
+  cartItems: Manga[];
+  quantity: number;
+  total: number;
+};
