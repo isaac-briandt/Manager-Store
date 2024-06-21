@@ -1,4 +1,4 @@
-import { FaCartPlus, FaArrowDown } from "react-icons/fa";
+import { FaCartPlus } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { UseAppSelector } from "../app/hooks";
 
