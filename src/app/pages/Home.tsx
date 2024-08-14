@@ -63,7 +63,7 @@ function Home() {
         </div>
         <div
           onClick={handleShowSortBy}
-          className="bg-red-700 text-white w-24 flex items-center justify-center gap-1 rounded-e-md cursor-pointer"
+          className="bg-red-600 text-white w-24 flex items-center justify-center gap-1 rounded-e-md cursor-pointer"
         >
           Sort By
           <FaArrowDown className="text-[12px]" />
